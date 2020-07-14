@@ -12,13 +12,21 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
+    "fs": "0.0.1-security",
+    "googleapis": "^54.0.0",
+    "imap": "^0.8.19",
     "jsonwebtoken": "^8.5.1",
+    "mailparser": "^2.7.7",
+    "moment": "^2.27.0",
     "node-pg-migrate": "^5.2.0",
     "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
     "pg": "^8.3.0"
   },
   "devDependencies": {

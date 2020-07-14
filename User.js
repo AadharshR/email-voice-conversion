@@ -7,4 +7,7 @@ const pool = new Pool({
     port: process.env.PGPORT,
     ssl: true
    });
+const findOne = async (user) => {
+    
+}
 console.log("pool",pool)
