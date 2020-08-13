@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "fs": "0.0.1-security",
-    "googleapis": "^54.0.0",
+    "googleapis": "^39.2.0",
     "imap": "^0.8.19",
     "jsonwebtoken": "^8.5.1",
     "mailparser": "^2.7.7",
@@ -27,7 +27,8 @@
     "node-pg-migrate": "^5.2.0",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
-    "pg": "^8.3.0"
+    "pg": "^8.3.0",
+    "say": "^0.16.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
